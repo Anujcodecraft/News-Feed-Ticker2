@@ -1,2 +1,3 @@
-# News-Feed-Ticker ##HTML ##CSS ##JAVA SCRIPT
+# News-Feed-Ticker 
+## HTML ## CSS ## JAVA SCRIPT
 News Feed Ticker: Engineered and integrated a dynamic news feed display feature into a web-based news application using HTML, CSS, and JavaScript. Leveraged the News API to fetch real-time news data categorized by topics such as general news, entertainment, health, science, sports, and technology. Implemented a responsive user interface with CSS Grid for layout flexibility and optimized performance. Incorporated JavaScript for DOM manipulation, event handling, and asynchronous data fetching, ensuring seamless updates and user interaction. The 'News Feed Ticker' enhances user experience by presenting up-to-date news headlines in a scrolling ticker format, offering convenient access to diverse news categories.
